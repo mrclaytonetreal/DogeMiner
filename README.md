@@ -9,7 +9,7 @@ The watchface displays the current network statistics (Current Block, Difficulty
 
 Download link TBA.
 
-The API address referenced in the Javascript is my own VPS with the current information served from a MySQL database. Should any of the 3rd price API's go down, the information will continue to be updated with the last known information. Any donations to assist with the API hosting costs is greatly appreciated (DUNqYPputM8ZLHTHM6RCpNcVs326wWWTkM)
+The API address referenced in the Javascript is my own VPS with the current information served from a MySQL database. Should any of the 3rd price API's go down, the information will continue to be updated with the last known information. Any donations to assist with the API hosting costs is greatly appreciated DOGE (DN9aMzWhRbAkFHvU8AeXt9nkm548Fersaj)
 
 Any questions or comments welcomed.
 
